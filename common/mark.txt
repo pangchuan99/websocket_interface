@@ -1,0 +1,27 @@
+a1 = (json.dumps(a2, indent=4, ensure_ascii=False)) 这个是转json    方便看，例如：
+
+{
+    "code": "user.login",
+    "body": {
+        "user": {
+            "uuid": "714d1265-505f-495e-a44b-85ec2fe13476",
+            "name": "庞川",
+            "password": "None",
+            "role": "0448389f-f0bd-456a-bced-572bd79e66f",
+            "apartment": "执法部门",
+            "title": "初级职称",
+            "createat": "1583907303",
+            "lastLogin": 1609745552,
+            "userName": "13547324646",
+            "userHead": "None",
+            "company": "交警大队"
+        },
+        "token": "e02ad4b7072ef931e36ad5e60936e030",
+        "refreshToken": "2ffc286d89214e6ecbd6f12aef441cfb"
+    },
+    "status": 0,
+    "timestamp": 1609745552,
+    "nonestr": "8f88c6a0-99f4-42f9-ae99-c40e4d7efeeb",
+    "extra": "None",
+    "session": "None"
+}

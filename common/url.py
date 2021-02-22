@@ -1,0 +1,1 @@
+host = "wss://gsm.jdjinsui.com/wss/?EIO=3&transport=websocket"
